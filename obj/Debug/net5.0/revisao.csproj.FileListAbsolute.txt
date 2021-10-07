@@ -1,0 +1,16 @@
+/home/lucaspina/Documents/Workspace/cursos-c#/revisao/bin/Debug/net5.0/revisao
+/home/lucaspina/Documents/Workspace/cursos-c#/revisao/bin/Debug/net5.0/revisao.deps.json
+/home/lucaspina/Documents/Workspace/cursos-c#/revisao/bin/Debug/net5.0/revisao.runtimeconfig.json
+/home/lucaspina/Documents/Workspace/cursos-c#/revisao/bin/Debug/net5.0/revisao.runtimeconfig.dev.json
+/home/lucaspina/Documents/Workspace/cursos-c#/revisao/bin/Debug/net5.0/revisao.dll
+/home/lucaspina/Documents/Workspace/cursos-c#/revisao/bin/Debug/net5.0/ref/revisao.dll
+/home/lucaspina/Documents/Workspace/cursos-c#/revisao/bin/Debug/net5.0/revisao.pdb
+/home/lucaspina/Documents/Workspace/cursos-c#/revisao/obj/Debug/net5.0/revisao.csproj.AssemblyReference.cache
+/home/lucaspina/Documents/Workspace/cursos-c#/revisao/obj/Debug/net5.0/revisao.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucaspina/Documents/Workspace/cursos-c#/revisao/obj/Debug/net5.0/revisao.AssemblyInfoInputs.cache
+/home/lucaspina/Documents/Workspace/cursos-c#/revisao/obj/Debug/net5.0/revisao.AssemblyInfo.cs
+/home/lucaspina/Documents/Workspace/cursos-c#/revisao/obj/Debug/net5.0/revisao.csproj.CoreCompileInputs.cache
+/home/lucaspina/Documents/Workspace/cursos-c#/revisao/obj/Debug/net5.0/revisao.dll
+/home/lucaspina/Documents/Workspace/cursos-c#/revisao/obj/Debug/net5.0/ref/revisao.dll
+/home/lucaspina/Documents/Workspace/cursos-c#/revisao/obj/Debug/net5.0/revisao.pdb
+/home/lucaspina/Documents/Workspace/cursos-c#/revisao/obj/Debug/net5.0/revisao.genruntimeconfig.cache

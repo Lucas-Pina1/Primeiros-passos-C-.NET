@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Primeiros-passos-C-.NET
+namespace Revisao
 {
-    public struct Aluno
-    {
-        public string Nome { get; set; }
+  public struct Aluno
+  {
+    public string Nome { get; set; }
 
-        public decimal Nota { get; set; }
-    }
+    public decimal Nota { get; set; }
+  }
 }
